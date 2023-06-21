@@ -4,16 +4,13 @@
 
 @layer base {
   :root {
-    /* --color-primary-a1: 159 208 212; */
     --color-primary-a1: 240 180 180;
-
     --color-primary-a2: 236 235 255;
     --color-secondary-a1: 228 227 230;
     --color-secondary-a2: 89 34 94;
     --color-secondary-a3: 7 0 0;
     --color-tertiary-a1: 118 118 124;
     --color-tertiary-a2: 86 85 132;
-    --color-test: rgb(0, 0, 0);
   }
 
   .dark {
